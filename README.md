@@ -2,7 +2,8 @@
 ##          👋 Hi, I'm Abdelrahman Samir<br><br>🎯 **AI/ML Engineer** passionate about building intelligent systems, solving real-world problems with data, and creating practical machine learning solutions.<br><br> 
 ##     🚀 About Me<br>- 🔬 Focused on **Machine Learning, Deep Learning, and Data Analysis**<br>- 🧠 Interested in **Computer Vision, NLP, and Applied AI**<br>- 🛠️ I build end-to-end ML projects (data → model → deployment)<br>- 📊 Love experimenting with different ML models & improving accuracy<br>- 🌱 Currently learning **XGBoost, LightGBM, Neural Networks, and MLOps basics**<br>- ☁️ Working on deploying ML apps using **Hugging Face & Gradio**<br>- 💡 I enjoy creating clean, reproducible ML projects with real impact<br><br>
 ##   🧰 Tech Stack<br>- **Languages:** Python, C++, SQL  <br>- **ML/DL:** Scikit-Learn, XGBoost, LightGBM, TensorFlow/Keras, Pandas, NumPy  <br>- **Tools:** Jupyter, VS Code, Git/GitHub  <br>- **Deployment:** Gradio, Hugging Face Spaces<br><br>
-##     📌 Current Projects<br>- ❤️ Heart Failure Prediction System (ML models + Gradio interface)<br><br>## 📫 Reach Me<br>- 💌 Email: **abdelrahmansamir886@gmail.com**  <br>- 🔗 LinkedIn: **www.linkedin.com/in/abdelrahman-samir-a5396a235**<br>
+##     📌 Current Projects<br>- ❤️ Heart Failure Prediction System (ML models + Gradio interface)<br><br>
+##     📫 Reach Me<br>- 💌 Email: **abdelrahmansamir886@gmail.com**  <br>- 🔗 LinkedIn: **www.linkedin.com/in/abdelrahman-samir-a5396a235**<br>
 
 
 ##     🌐 Socials:
