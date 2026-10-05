@@ -11,7 +11,7 @@
 
 ## 💫 About Me
 
-- 🎓 **Software Engineering Student** at Mansoura University (Class of 2028 | **CGPA: 3.51/4.0**)
+- 🎓 **Software Engineering Student** at Mansoura University (Class of 2028 | **CGPA: /4.0**)
 - 💼 **Microsoft Data Engineer Trainee** @ DEPI & Pursuing the **IBM Data Engineering Certificate**.
 - 🏆 **Competitive Programmer**: Active participant in ICPC (ECPC 2026) using C++ to solve complex algorithmic challenges.
 - 🏗️ **Data Architect**: Specialized in building end-to-end ETL/ELT pipelines, data warehouses, and migrating data to **Microsoft Azure** and **SQL Server**.
