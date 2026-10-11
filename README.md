@@ -1,63 +1,117 @@
-# Hi there, I'm Abdelrahman Samir! 👋
+# Hi there, I'm Abdelrahman Samir! 👋 🚀
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Data+Engineer;Software+Engineering+Student;Competitive+Programmer;Building+Robust+ETL+Pipelines" alt="Typing SVG" />
+  <!-- Dynamic Animated Tech Banner -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=00D2FF&center=true&vCenter=true&width=750&lines=Aspiring+Data+Engineer+🤖;Software+Engineering+Student+🎓;Competitive+Programmer+🏆;Building+Robust+ETL%2FELT+Pipelines+🏗️" alt="Typing SVG" />
 </div>
 
-> *"Data is only valuable when it becomes actionable."*
-
-I am a Software Engineering student and an aspiring Data Engineer passionate about transforming raw data into actionable insights through robust ETL/ELT pipelines, cloud architectures, and data-driven solutions. 
-
-### 💫 About Me
-
-- 🎓 **Education:** Software Engineering Student at Mansoura University (Class of 2028).
-- 💼 **Experience:** Microsoft Data Engineer Trainee @ DEPI (Aug 2026 – Present) & pursuing the IBM Data Engineering Certificate.
-- 🏆 **Problem Solving:** Active competitive programmer in ICPC (ECPC 2026), solving complex algorithmic challenges using C++.
-- 🤖 **Machine Learning:** Graduate of the NTI 120-hour ML Summer Program (Achieved 96% technical score).
-- ⚙️ **My Workspace:** Dual-booting **Linux (Ubuntu)** and Windows, typing on a mechanical keyboard with tactile brown switches, and always driven by continuous learning.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&height=120&section=header&text=Data%20is%20only%20valuable%20when%20it%20becomes%20actionable&fontSize=20&animation=fadeIn" alt="Header Banner" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack
-
-**Programming & Scripting**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Data Engineering & Cloud**  
-![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/apache%20spark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-
-**Databases**  
-![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-**Tools & OS**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🏗️ **End-to-End Azure Data Engineering Pipeline** | Architected a comprehensive pipeline involving data extraction, cleaning, validation, and loading into SQL Server. Transitioned into building a scalable Data Warehouse on Microsoft Azure. | `Python`, `SQL Server`, `Azure`, `Pandas` |
-| ❤️ **Heart Failure Prediction System** | Developed a machine learning classification project to predict patient risks with high accuracy. | `Python`, `Scikit-learn`, `XGBoost`, `LightGBM` |
-
----
-
-### 📊 GitHub Analytics
-
+### 🏆 GITHUB TROPHIES (تفاعلي تلقائياً)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelra-hman&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelra-hman&layout=compact&theme=transparent&hide_border=true&title_color=2196F3" height="150" alt="Top Languages" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abdelra-hman&theme=tokyonight&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  </a>
+</div>
+
+---
+
+### 💫 About Me / نبذة عني
+<p align="left">
+  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h0Y3dyM3Q1YnY2cW54MGtsN280NXRyZnlhcTdpZGttZXpkaXFrOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1bI6YfWf8hS8p0o/giphy.gif" width="220" alt="Data Science & Engineering Coding Animation">
+  
+  - 🎓 **Education:** Software Engineering Student at Mansoura University (Class of 2028 | CGPA: /4.0).
+  - 💼 **Experience:** Microsoft Data Engineer Trainee @ DEPI (Aug 2026 – Present) & Pursuing the IBM Data Engineering Certificate.
+  - 🏆 **Competitive Programmer:** Active participant in ICPC (ECPC 2026) using C++ to solve complex algorithmic challenges.
+  - 🏗️ **Data Architect:** Specialized in building end-to-end ETL/ELT pipelines, data warehouses, and migrating data to Microsoft Azure and SQL Server.
+  - 🤖 **ML Enthusiast:** Graduate of the NTI 120-hour Machine Learning Summer Program (96% technical score).
+  - ⚙️ **Workspace:** Dual-booting **Ubuntu Linux** / Windows 💻, typing on tactile brown switches, and driven by continuous learning.
+</p>
+
+---
+
+### 🛠️ Tech Stack & Skills / التقنيات التي أتقنها
+
+<details open>
+<summary><b>💻 Programming & Scripting</b></summary>
+<br/>
+<sub>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/T--SQL-002D62?style=for-the-badge&logo=microsoft&logoColor=white" />
+</sub>
+</details>
+
+<details open>
+<summary><b>📦 Data Engineering, Cloud & Orchestration</b></summary>
+<br/>
+<sub>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+</sub>
+</details>
+
+<details open>
+<summary><b>🗄️ Databases & Machine Learning</b></summary>
+<br/>
+<sub>
+  <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</sub>
+</details>
+
+<details open>
+<summary><b>🧰 Tools & OS</b></summary>
+<br/>
+<sub>
+  <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</sub>
+</details>
+
+---
+
+### 🚀 Featured Projects / مشاريع مميزة
+
+| المشروع | الوصف والتفاصيل | التقنيات المستخدمة |
+| :--- | :--- | :--- |
+| **🏗️ End-to-End Azure Data Engineering Pipeline** | تصميم وبناء خطوط بيانات شاملة لسحب، تنظيف (Pandas/NumPy) وتحميل البيانات إلى SQL Server مع الانتقال إلى بناء مستودع بيانات ضخم وقابل للتوسع على Microsoft Azure. | `Azure`, `Pandas`, `SQL Server`, `Pipeline` |
+| **❤️ Heart Failure Prediction System** | مشروع ذكاء اصطناعي وتصنيف للتنبؤ بمخاطر مرضى فشل القلب بدقة عالية باستخدام خوارزميات متنوعة. | `Python`, `Scikit-learn`, `XGBoost`, `LightGBM` |
+
+---
+
+### 📊 GitHub Analytics / إحصائيات تفاعلية مباشرة
+<!-- Live animated statistics boards that auto-update! -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelra-hman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00D2FF&icon_color=00D2FF" height="170px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelra-hman&layout=compact&theme=tokyonight&hide_border=true&title_color=00D2FF" height="170px" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelra-hman&theme=transparent&hide_border=true&title_color=2196F3" alt="GitHub Streak" />
+  <!-- Interactive Activity Streak Fire -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelra-hman&theme=tokyonight&hide_border=true&fire=FF4500" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📉 3D Contribution Grid (مجسم مساهماتك ثلاثي الأبعاد)
+<!-- You can make a 3D commit gallery using visual generators if desired, or let this dynamic widget display active contributions -->
+<div align="center">
+  <p>ألقِ نظرة على نشاطي البرمجي وحيويتي على GitHub!</p>
+  <img src="https://github-profile-3d-contrib.94g.el.r.appspot.com/?username=abdelra-hman&theme=dark" alt="3D Contribution Graph" />
+</div>
+
+<div align="right">
+  📫 Connect with me! Reach me out on GitHub & beyond.
 </div>
