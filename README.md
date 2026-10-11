@@ -1,7 +1,7 @@
 # Hi there, I'm Abdelrahman Samir! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Aspiring+Data+Engineer;Software+Engineering+Student;Competitive+Programmer;Building+Robust+ETL+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Data+Engineer;Software+Engineering+Student;Competitive+Programmer;Building+Robust+ETL+Pipelines" alt="Typing SVG" />
 </div>
 
 > *"Data is only valuable when it becomes actionable."*
