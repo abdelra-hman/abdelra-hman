@@ -1,84 +1,64 @@
+# Hi there, I'm Abdelrahman Samir! 👋
+
 <div align="center">
-  <h1>Hi there, I'm Abdelrahman Samir! 👋</h1>
-  <h3>🚀 Aspiring Data Engineer | Software Engineering Student | Microsoft Data Engineer Trainee @ DEPI</h3>
-  <p><i>Transforming raw data into actionable insights through robust ETL pipelines, cloud architectures, and data-driven solutions.</i></p>
-  
-  <a href="https://linkedin.com/in/abdelrahman-samir-a5396a235"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:abdelrahmansamir886@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Aspiring+Data+Engineer;Software+Engineering+Student;Competitive+Programmer;Building+Robust+ETL+Pipelines" alt="Typing SVG" />
 </div>
 
-<br/>
+> *"Data is only valuable when it becomes actionable."*
 
-## 💫 About Me
+I am a Software Engineering student and an aspiring Data Engineer passionate about transforming raw data into actionable insights through robust ETL/ELT pipelines, cloud architectures, and data-driven solutions. 
 
-- 🎓 **Software Engineering Student** at Mansoura University (Class of 2028 | **CGPA: /4.0**)
-- 💼 **Microsoft Data Engineer Trainee** @ DEPI & Pursuing the **IBM Data Engineering Certificate**.
-- 🏆 **Competitive Programmer**: Active participant in ICPC (ECPC 2026) using C++ to solve complex algorithmic challenges.
-- 🏗️ **Data Architect**: Specialized in building end-to-end ETL/ELT pipelines, data warehouses, and migrating data to **Microsoft Azure** and **SQL Server**.
-- 🤖 **ML Enthusiast**: Graduate of the NTI 120-hour Machine Learning Summer Program (96% technical score).
-- ⚙️ **Workspace**: Dual-booting Ubuntu/Windows, typing on tactile brown switches, and driven by continuous learning.
+### 💫 About Me
+
+- 🎓 **Education:** Software Engineering Student at Mansoura University (Class of 2028).
+- 💼 **Experience:** Microsoft Data Engineer Trainee @ DEPI (Aug 2026 – Present) & pursuing the IBM Data Engineering Certificate.
+- 🏆 **Problem Solving:** Active competitive programmer in ICPC (ECPC 2026), solving complex algorithmic challenges using C++.
+- 🤖 **Machine Learning:** Graduate of the NTI 120-hour ML Summer Program (Achieved 96% technical score).
+- ⚙️ **My Workspace:** Dual-booting **Linux (Ubuntu)** and Windows, typing on a mechanical keyboard with tactile brown switches, and always driven by continuous learning.
 
 ---
 
-## 🚀 Featured Projects
+### 🛠️ Tech Stack
 
-### 🏗️ End-to-End Azure Data Engineering Pipeline
-Architected a comprehensive data pipeline involving data extraction, cleaning (Pandas/NumPy), validation, and loading into **SQL Server**. Transitioned into building a scalable Data Warehouse on **Microsoft Azure**.
+**Programming & Scripting**  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ❤️ Heart Failure Prediction System
-Developed a machine learning classification project using **Python, Scikit-learn, Random Forest, XGBoost, and LightGBM** to predict patient risks with high accuracy. 
+**Data Engineering & Cloud**  
+![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/apache%20spark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
----
+**Databases**  
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🛠️ Tech Stack
-
-### 💻 Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-### 📦 Data Engineering & Cloud
-![ETL/ELT](https://img.shields.io/badge/ETL%20/%20ELT-0052CC?style=flat-square)
-![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-336791?style=flat-square)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-
-### 🗄️ Databases & Machine Learning
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-### 🧰 Tools & OS
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+**Tools & OS**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📊 GitHub Analytics
+### 🚀 Featured Projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelra-hman&theme=transparent&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&show_icons=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelra-hman&layout=compact&theme=transparent&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide_border=true" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=abdelra-hman&theme=transparent&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelra-hman&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&hide_border=true" width="100%" />
-</div>
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🏗️ **End-to-End Azure Data Engineering Pipeline** | Architected a comprehensive pipeline involving data extraction, cleaning, validation, and loading into SQL Server. Transitioned into building a scalable Data Warehouse on Microsoft Azure. | `Python`, `SQL Server`, `Azure`, `Pandas` |
+| ❤️ **Heart Failure Prediction System** | Developed a machine learning classification project to predict patient risks with high accuracy. | `Python`, `Scikit-learn`, `XGBoost`, `LightGBM` |
 
 ---
 
+### 📊 GitHub Analytics
+
 <div align="center">
-  <i>"Data is only valuable when it becomes actionable."</i>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=abdelra-hman&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelra-hman&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelra-hman&layout=compact&theme=transparent&hide_border=true&title_color=2196F3" height="150" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelra-hman&theme=transparent&hide_border=true&title_color=2196F3" alt="GitHub Streak" />
 </div>
